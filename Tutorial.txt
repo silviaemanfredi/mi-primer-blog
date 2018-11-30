@@ -1,0 +1,10 @@
+Instalar Python
+
+Instalar Editor de Código: Visual Studio Code
+
+Crear entorno visual e instalar Django (antes actualizar pip)
+
+Instalar Git (Sistema de control de versiones)
+
+
+
